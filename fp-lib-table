@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name LSHM-150-XX)(type KiCad)(uri /Users/adammolnar/Desktop/LSHM-150-XX.X-XX-DV-A-N)(options "")(descr ""))
+  (lib (name OKI-78SR-3.3_1)(type KiCad)(uri /Users/adammolnar/Desktop/OKI-78SR-3.3_1.5-W36H-C-pcb-part-libraries)(options "")(descr ""))
+  (lib (name "47272-0001 (1)")(type KiCad)(uri "/Users/adammolnar/Desktop/47272-0001 (1)")(options "")(descr ""))
+  (lib (name BKP0603HS121-T)(type KiCad)(uri /Users/adammolnar/Desktop/BKP0603HS121-T)(options "")(descr ""))
+  (lib (name PJ-102B)(type KiCad)(uri /Users/adammolnar/Desktop/PJ-102B)(options "")(descr ""))
+  (lib (name DSC1123CI2-125.0000)(type Legacy)(uri /Users/adammolnar/Desktop/LIB_DSC1123CI2-125.0000/DSC1123CI2-125.0000/KiCad/DSC1123CI2-125.0000.mod)(options "")(descr ""))
+  (lib (name 0878321420)(type Legacy)(uri /Users/adammolnar/Desktop/LIB_0878321420/0878321420/KiCad/0878321420.mod)(options "")(descr ""))
+)

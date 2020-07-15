@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name Displayport)(type Legacy)(uri "/Users/adammolnar/Desktop/47272-0001 (1)/47272-0001.lib")(options "")(descr ""))
+  (lib (name LSHM-150-XX.X-XX-DV-A-N)(type Legacy)(uri /Users/adammolnar/Desktop/LSHM-150-XX.X-XX-DV-A-N/LSHM-150-XX.X-XX-DV-A-N.lib)(options "")(descr ""))
+  (lib (name BKP0603HS121-T)(type Legacy)(uri /Users/adammolnar/Desktop/BKP0603HS121-T/BKP0603HS121-T.lib)(options "")(descr ""))
+  (lib (name PJ-102B)(type Legacy)(uri /Users/adammolnar/Desktop/PJ-102B/PJ-102B.lib)(options "")(descr ""))
+  (lib (name DSC1123CI2-125.0000)(type Legacy)(uri /Users/adammolnar/Desktop/LIB_DSC1123CI2-125.0000/DSC1123CI2-125.0000/KiCad/DSC1123CI2-125.0000.lib)(options "")(descr ""))
+  (lib (name 0878321420)(type Legacy)(uri /Users/adammolnar/Desktop/LIB_0878321420/0878321420/KiCad/0878321420.lib)(options "")(descr ""))
+)
