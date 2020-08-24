@@ -104,10 +104,6 @@ Wire Wire Line
 	5450 5800 5450 5900
 Text Label 2550 7200 3    50   ~ 0
 VIN
-Text Label 11950 7000 0    50   ~ 0
-VIN
-Text Label 12200 7100 0    50   ~ 0
-VIN
 $Comp
 L Displayport:47272-0001 J4
 U 1 1 5EE4FAFE
@@ -672,8 +668,6 @@ F 11 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/DSC1123CI2-125
 	1    9300 8100
 	1    0    0    -1  
 $EndComp
-Text Label 9050 8100 2    50   ~ 0
-VIN
 Wire Wire Line
 	9200 8400 9200 8300
 Wire Wire Line
@@ -1708,7 +1702,7 @@ F 3 "" H 12550 6500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Text Label 10450 6300 1    50   ~ 0
-VIN
+V3P3
 $Comp
 L power:+3.3V #PWR?
 U 1 1 5F34A68D
@@ -1720,4 +1714,10 @@ F 3 "" H 3000 6300 50  0001 C CNN
 	1    3000 6300
 	1    0    0    -1  
 $EndComp
+Text Label 11950 7000 0    50   ~ 0
+V3P3
+Text Label 12200 7100 0    50   ~ 0
+V3P3
+Text Label 9050 8100 2    50   ~ 0
+V3P3
 $EndSCHEMATC
