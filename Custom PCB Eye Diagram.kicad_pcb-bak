@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 46)
-    (tracks 602)
+    (tracks 604)
     (zones 0)
     (modules 66)
     (nets 67)
@@ -3168,8 +3168,8 @@
     )
   )
 
-  (gr_circle (center 161.34 98.83) (end 162.14 98.83) (layer Edge.Cuts) (width 0.05) (tstamp 5FD9EB6D))
-  (gr_circle (center 134.34 98.825) (end 135.14 98.825) (layer Edge.Cuts) (width 0.05) (tstamp 5FD9EB6D))
+  (gr_circle (center 161.34 98.83) (end 162.14 98.83) (layer Edge.Cuts) (width 0.05) (tstamp 5FF78126))
+  (gr_circle (center 134.34 98.825) (end 135.14 98.825) (layer Edge.Cuts) (width 0.05) (tstamp 5FF78121))
   (gr_circle (center 155.35 76.825) (end 156.15 76.825) (layer Edge.Cuts) (width 0.05) (tstamp 5FD9EB6D))
   (gr_circle (center 128.35 76.825) (end 129.15 76.825) (layer Edge.Cuts) (width 0.05) (tstamp 5FD9EB68))
   (gr_text "LSHM Connector to FPGA\n" (at 141.05 71.325) (layer F.SilkS) (tstamp 5FD96F6F)
@@ -3397,6 +3397,8 @@
   (segment (start 150.0931 78.5805) (end 150.0931 81.2531) (width 0.15) (layer F.Cu) (net 1))
   (via (at 157.19 74.84) (size 1.1) (drill 0.95) (layers F.Cu B.Cu) (net 1))
   (via (at 126.49 74.82) (size 1.1) (drill 0.95) (layers F.Cu B.Cu) (net 1))
+  (via (at 132.5 96.82) (size 1.1) (drill 0.95) (layers F.Cu B.Cu) (net 1))
+  (via (at 163.18 96.83) (size 1.1) (drill 0.95) (layers F.Cu B.Cu) (net 1))
   (segment (start 150.1902 117.8561) (end 153.7337 117.8561) (width 0.508) (layer F.Cu) (net 2))
   (segment (start 153.7337 117.8561) (end 153.7462 117.8686) (width 0.508) (layer F.Cu) (net 2))
   (segment (start 150.1902 117.8561) (end 150.1902 120.3475) (width 0.508) (layer F.Cu) (net 2))
